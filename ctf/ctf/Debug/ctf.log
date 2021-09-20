@@ -1,0 +1,26 @@
+﻿  ctf.cpp
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(8,5): error C2065: QCoreApplication: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(8,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(8,22): error C3861: a: идентификатор не найден
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(10,5): error C2065: text: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,18): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "i"
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,22): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,22): error C2059: синтаксическая ошибка: <
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,28): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(14,31): error C2059: синтаксическая ошибка: )
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(15,14): error C3863: тип массива "int [26]" является неназначаемым
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(18,10): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(18,17): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(18,21): error C2065: lenght: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(18,29): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(20,14): error C2065: j: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(20,23): error C2065: j: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(20,33): error C2065: j: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(22,17): error C2065: text: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(22,22): error C2065: i: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(22,28): error C2065: j: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(22,33): error C2065: j: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(25,16): error C2065: a: необъявленный идентификатор
+C:\Users\79501\source\repos\ctf\ctf\ctf.cpp(7): fatal error C1075: "{": не найдена несоответствующая лексема
